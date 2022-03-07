@@ -1,0 +1,21 @@
+Caso: Pastelería Rosa Descripción:
+
+Es una pastelería que quiere tener presencia en línea, automatizar pedidos personalizados y llevar un control de inventarios online (formulario e informe).
+
+Al momento de llenar el formulario se manda la solicitud de elaboración con fecha de entrega y detalles de la personalización del pastel, además relacionar con el inventario para mantenerlo actualizado.
+
+Para dar seguimiento al inventario, el personal puede verificar en la página.
+
+Se debe sincronizar el pedido relacionado con el inventario existente y la fecha de entrega prometida, de forma que se mantengan existencias para cumplir con los pedidos comprometidos y se actualice la información constantemente.
+
+El cliente puede ver el resumen de lo solicitado antes de pagar y agregar notas.
+
+El personal puede ver los inventarios en tiempo real y las alertas para comprar para futuros pedidos.
+
+El personal debe poder ver un calendario de pedidos por fecha y hora de entrega.
+
+El personal debe recibir alertas de compra de materiales por fecha.
+
+La página debe de ser responsive para poderla ver desde el celular.
+
+Colores del cliente rosa y blanco, se puede jugar con tonos pastel.
