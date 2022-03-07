@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pastelería Rosa</title>
+</head>
+<body>
+    <!-- Headings -->
+    <h1>Acompaña tus momentos familiares con pasteles Rosa</h1>
+    <h2>Convive en familia</h2>
+
+    <hr>
+    <h2>Personaliza tu pastel</h2>
+    <form action="/accion.js" id="form1" method="post">
+    <label for="sabor">Sabor</label>
+    <select id="sabor" name="sabor">
+        <option value="cereza">Cereza</option>
+        <option value="chocolate">Chocolate</option>
+        <option value="fresas">Fresa</option>
+        <option value="frutos">Frutos rojos</option>
+        <option value="limon">Limón</option>
+        <option value="menta">Menta</option>
+    </select>
+
+    <h2>Topping</h2><br>
+    <input type="checkbox" id="topping1" name="topping1" value="fresa">
+    <label for="topping1">Fresas</label><br>
+    <input type="checkbox" id="topping2" name="topping2" value="arandano">
+    <label for="topping2">Arandanos</label><br>
+    <input type="checkbox" id="topping3" name="topping3" value="mango">
+    <label for="topping3">Mango</label><br><br>
+
+    <h2>Cubierta</h2><br>
+    <input type="radio" id="ganache" name="cubierta" value="ganache">
+    <label for="ganache">Ganache</label><br>
+    <input type="radio" id="crenaymermelada" name="cubierta" value="cremaymermelada">
+    <label for="cremaymermelada">Crema y mermelada</label><br>
+    <input type="radio" id="merengue" name="cubierta" value="merengue">
+    <label for="mermelada">Merengue</label><br><br>
+
+    <h2>Figura</h2><br>
+    <input type="radio" id="chocolate" name="figura" value="chocolate">
+    <label for="chocolate">Chocolate</label><br>
+    <input type="radio" id="pegatina" name="figura" value="pegatina">
+    <label for="pegatina">Pegatina</label><br>
+    <br><br>
+    <!--
+
+
+    <!-- Entradas / Inputs -->
+    <input type="text" id="Input1" name="Input1">
+    <br><br>
+
+    <label for="correo1">Correo</label><br>
+    <input type="email" id="correo1" name="correo1"><br><br>
+    
+    <label for="numero1">Teléfono</label><br>
+    <input type="number" id="numero1" name="numero1" maxlength="10"><br><br>
+
+
+    <hr>
+    <br><br>
+  
+    <h2>Fecha de entrega</h2><br>
+    <!-- <input type="date" id="fecha1" name="fecha1"><br>-->
+    <input type="datetime-local" id="fecha2" name="fecha2"><br>
+
+    
+ 
+    <hr>
+    
+
+    <input type="button" id="boton1" name="boton1" value="Pagar" onclick="alert('Pago en proceso');"><br><br>
+    
+    <hr>
+  
+
+    </form>
+    
+    <a href="main.html" target="blank">Regresar a Inicio</a>   
+</body>
+</html>

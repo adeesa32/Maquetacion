@@ -1,0 +1,27 @@
+Marca: Pastelería Rosa
+Logo: Pastel en blanco y rosa
+Letra: Blackadder ITC tamaño 46
+
+Lema: Los pasteles Rosa presentes en todos los momentos familiares
+Visión: Pasteles Rosa esta en la mesa de las familias mexicanas como símbolo de unión
+Misión: Ofrecer a las familias el sabor tradicional de la pastelería mexicana con alta calidad.
+
+Mapa del sitio
+Página de inicio
+/
+   Catálogo de productos (foto, descripción, tamaño, precio)  (botón -> realizar un pedido)
+   Personaliza tu pastel (fruta fresca (fresas, arandanos, mango)  //check box
+                          Cubierta (ganache, crema con mermelada, merengue) // radio button
+                          Figura (personaje chocolate, pegatina) // radio button
+   Formulario de pedido (nombre, correo, teléfono, personaliza tu pastel, fecha de entrega,hora, botón de pago, resumen de sabores y elecciones realizadas!!)
+   Nosotros (dirección, teléfono, horarios) 
+
+
+
+/ Control
+   Inventario de sabores
+   Inventario de cubiertas y figuras
+   Tabla de pedidos realizados
+
+
+<a href='https://www.freepik.es/vectores/comida'>Vector de Comida creado por macrovector - www.freepik.es</a>
